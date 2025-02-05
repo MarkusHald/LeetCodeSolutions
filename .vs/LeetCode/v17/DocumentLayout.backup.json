@@ -1,10 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marku\\projects\\LeetCode\\",
+  "WorkspaceRootPath": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcode\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\helpers\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\helpers\\listnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\linkedlist\\mergesortedlinkedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\mergesortedlinkedlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\reverselinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\array\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\array\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\array\\maxprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\array\\maxprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\array\\majorityelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\array\\majorityelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\array\\insertinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\array\\insertinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\array\\containsduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\array\\containsduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\linkedlist\\linkedlistcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\linkedlist\\linkedlistcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\stack\\implementqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\stack\\implementqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|c:\\users\\marku\\projects\\leetcodesolutions\\leetcode\\stack\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F404864A-699A-4F20-B6EE-F6D259CD5044}|LeetCode\\LeetCode.csproj|solutionrelative:leetcode\\stack\\validparentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "MajorityElement.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\MajorityElement.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Array\\MajorityElement.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\MajorityElement.cs",
+              "RelativeToolTip": "LeetCode\\Array\\MajorityElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:19:17.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContainsDuplicate.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\ContainsDuplicate.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Array\\ContainsDuplicate.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\ContainsDuplicate.cs",
+              "RelativeToolTip": "LeetCode\\Array\\ContainsDuplicate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:19:05.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MergeSortedLinkedLists.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\LinkedList\\MergeSortedLinkedLists.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LinkedList\\MergeSortedLinkedLists.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\LinkedList\\MergeSortedLinkedLists.cs",
+              "RelativeToolTip": "LeetCode\\LinkedList\\MergeSortedLinkedLists.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:57:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReverseLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\LinkedList\\ReverseLinkedList.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LinkedList\\ReverseLinkedList.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\LinkedList\\ReverseLinkedList.cs",
+              "RelativeToolTip": "LeetCode\\LinkedList\\ReverseLinkedList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:17:52.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LinkedListCycle.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\LinkedList\\LinkedListCycle.cs",
+              "RelativeDocumentMoniker": "LeetCode\\LinkedList\\LinkedListCycle.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\LinkedList\\LinkedListCycle.cs",
+              "RelativeToolTip": "LeetCode\\LinkedList\\LinkedListCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:46:02.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidParentheses.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Stack\\ValidParentheses.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Stack\\ValidParentheses.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Stack\\ValidParentheses.cs",
+              "RelativeToolTip": "LeetCode\\Stack\\ValidParentheses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:34:30.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImplementQueue.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Stack\\ImplementQueue.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Stack\\ImplementQueue.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Stack\\ImplementQueue.cs",
+              "RelativeToolTip": "LeetCode\\Stack\\ImplementQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:12:21.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TwoSum.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\TwoSum.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Array\\TwoSum.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\TwoSum.cs",
+              "RelativeToolTip": "LeetCode\\Array\\TwoSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:39:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCode\\LeetCode\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Program.cs",
               "RelativeDocumentMoniker": "LeetCode\\Program.cs",
-              "ToolTip": "C:\\Users\\marku\\projects\\LeetCode\\LeetCode\\Program.cs*",
-              "RelativeToolTip": "LeetCode\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Program.cs",
+              "RelativeToolTip": "LeetCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T02:38:01.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListNode.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Helpers\\ListNode.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Helpers\\ListNode.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Helpers\\ListNode.cs",
+              "RelativeToolTip": "LeetCode\\Helpers\\ListNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T21:46:51.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaxProfit.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\MaxProfit.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Array\\MaxProfit.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\MaxProfit.cs",
+              "RelativeToolTip": "LeetCode\\Array\\MaxProfit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:19:25.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InsertInterval.cs",
+              "DocumentMoniker": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\InsertInterval.cs",
+              "RelativeDocumentMoniker": "LeetCode\\Array\\InsertInterval.cs",
+              "ToolTip": "C:\\Users\\marku\\projects\\LeetCodeSolutions\\LeetCode\\Array\\InsertInterval.cs",
+              "RelativeToolTip": "LeetCode\\Array\\InsertInterval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:49:34.656Z",
               "EditorCaption": ""
             }
           ]
