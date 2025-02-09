@@ -1,9 +1,6 @@
-﻿using LeetCode.Helpers;
-using System.Collections.Generic;
+﻿namespace LeetCode.LinkedListTasks
+{
 
-namespace LeetCode.LinkedList
-{    
-     
     public class LinkedListCycle
     {
         HashSet<ListNode> seenNodes = new HashSet<ListNode>();

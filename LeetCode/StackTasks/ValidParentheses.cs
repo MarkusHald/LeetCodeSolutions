@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Stack
+﻿namespace LeetCode.StackTasks
 {
     public static class ValidParentheses
     {

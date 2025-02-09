@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Array
+﻿namespace LeetCode.StringTasks
 {
     public static class IsPalindrome
     {

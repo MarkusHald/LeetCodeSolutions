@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Stack
+﻿namespace LeetCode.StackTasks
 {
     /**
      * Your MyQueue object will be instantiated and called as such:

@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Helpers
+﻿namespace LeetCode.LinkedListTasks
 {
     public class ListNode
     {
@@ -14,7 +14,7 @@
         {
             var temp = new ListNode(val + 1);
             next = temp;
-            
+
             for (int j = val + 2; j < amountOfChildren + 1; j++)
             {
                 temp.next = new ListNode(j);

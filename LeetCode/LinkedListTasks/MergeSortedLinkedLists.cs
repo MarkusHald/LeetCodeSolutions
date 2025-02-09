@@ -1,6 +1,4 @@
-﻿using LeetCode.Helpers;
-
-namespace LeetCode.LinkedList
+﻿namespace LeetCode.LinkedListTasks
 {
     public class MergeSortedLinkedLists
     {

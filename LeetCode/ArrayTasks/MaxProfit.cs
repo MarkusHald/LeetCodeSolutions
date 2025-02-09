@@ -1,4 +1,4 @@
-﻿namespace LeetCode.Array
+﻿namespace LeetCode.ArrayTasks
 {
     public static class MaxProfit
     {
